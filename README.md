@@ -46,4 +46,6 @@ Image Source Azure Container Registry (vanh0710) Chỉ định Web App kéo Imag
 
 3. KẾT LUẬN VÀ KIỂM TRA
 
+● Link video demo login: https://drive.google.com/file/d/1j9UTUy0KZTGx6Y-z7bt73_deL5EI3SiQ/view?usp=drive_link
+
 ● Link Ứng dụng Đã Deploy: [mindx-frontend-app.azurewebsites.net](https://mindx-frontend-app.azurewebsites.net/)
